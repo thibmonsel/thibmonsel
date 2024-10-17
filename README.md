@@ -14,5 +14,5 @@ class About:
     location: Paris
     research: ScientificML = ["Optimisation", "Numerical Methods", "Deep Learning"]
     main_tools: Python = ["Pytorch", "JAX"]
-    leisure : ["trailing","skiing","tennis"]
+    leisure : ["trailing", "skiing", "tennis"]
 ```
