@@ -15,3 +15,22 @@ class About:
     main_tools: Python = ["Pytorch", "JAX"]
     leisure : ["trailing", "skiing", "tennis"]
 ```
+
+<details>
+<summary>Highlights of my open source projects:</summary>
+
+### DDEs
+
+1. Integrating Neural DDEs in Pytorch [**torchdde**](https://github.com/thibmonsel/torchdde).
+2. Integrating Neural DDEs in JAX [**diffrax**](https://github.com/patrick-kidger/diffrax/pull/169), PR to be merged.
+
+### LLMs
+
+1. GPT2, Mamba & xLSTM implementation [**nanoLLM**](https://github.com/thibmonsel/nanoLLM).
+2. Text Diffusion LLM implementation [**nanodLLM**](https://github.com/thibmonsel/nanodLLM).
+
+### CUDA 
+
+1. 100 days of building GPU kernels [**GPUSandbox**](https://github.com/thibmonsel/GPUSandbox).
+    
+</details>
