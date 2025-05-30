@@ -32,5 +32,8 @@ class About:
 ### CUDA 
 
 1. 100 days of building GPU kernels [**GPUSandbox**](https://github.com/thibmonsel/GPUSandbox).
-    
+
+### Image generation
+
+1. VQ-VAE implementation [**vqvae**](https://github.com/thibmonsel/vqvae)
 </details>
