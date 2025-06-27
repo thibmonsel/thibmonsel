@@ -36,4 +36,5 @@ class About:
 ### Image generation
 
 1. VQ-VAE implementation [**vqvae**](https://github.com/thibmonsel/vqvae)
+2. VQ-GAN implementation [**taming_transformer**](https://github.com/thibmonsel/taming_transformer)
 </details>
